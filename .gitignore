@@ -1,0 +1,5 @@
+# Initial gitignore file
+.vscode
+.intellij
+.env
+
