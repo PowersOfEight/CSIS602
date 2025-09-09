@@ -2,4 +2,4 @@
 .vscode
 .intellij
 .env
-
+.local/
