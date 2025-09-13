@@ -1,3 +1,6 @@
 [submodule "csci-602-spring-boot-template-PowersOfEight"]
 	path = csci-602-spring-boot-template-PowersOfEight
 	url = git@github.com:CitadelCS/csci-602-spring-boot-template-PowersOfEight.git
+[submodule "csci-602-hw1"]
+	path = csci-602-hw1
+	url = ./csci-602-hw1
