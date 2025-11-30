@@ -4,3 +4,6 @@
 [submodule "csci-602-hw1"]
 	path = csci-602-hw1
 	url = ./csci-602-hw1
+[submodule "test-2"]
+	path = test-2
+	url = ./test-2
